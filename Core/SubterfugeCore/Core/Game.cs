@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using SubterfugeCore.Core.Config;
+using SubterfugeCore.Core.Entities;
 using SubterfugeCore.Core.Entities.Positions;
+using SubterfugeCore.Core.Entities.Specialists;
 using SubterfugeCore.Core.GameEvents;
 using SubterfugeCore.Core.GameEvents.Base;
 using SubterfugeCore.Core.Generation;
+using SubterfugeCore.Core.Interfaces;
 using SubterfugeCore.Core.Players;
 using SubterfugeCore.Core.Timing;
 using SubterfugeRemakeService;
@@ -25,6 +28,12 @@ namespace SubterfugeCore.Core
         /// Time machine instance which controls the game state
         /// </summary>
         public TimeMachine TimeMachine;
+
+        /// <summary>
+        /// The specialist pool for the game. Provides a list of the possible specialists that can be obtained
+        /// as well as their configuration.
+        /// </summary>
+        public SpecialistPool SpecialistPool;
         
         /// <summary>
         /// The game configuration. Determines things like the map generation config,
@@ -76,6 +85,11 @@ namespace SubterfugeCore.Core
             gameEvents
                 .ConvertAll<GameEvent>(m => GameEventFactory.parseGameEvent(m))
                 .ForEach( parsedEvent => TimeMachine.AddEvent(parsedEvent) );
+        }
+
+        public SpecialistPool GetSpecialistPool()
+        {
+            return SpecialistPool;
         }
     }
 }
