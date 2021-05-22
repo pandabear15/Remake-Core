@@ -144,112 +144,205 @@ namespace SubterfugeRemakeService {
             "CnBhZ2luYXRpb24YAyABKAUiiQEKGEdldEdyb3VwTWVzc2FnZXNSZXNwb25z",
             "ZRI3CgZzdGF0dXMYASABKAsyJy5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5S",
             "ZXNwb25zZVN0YXR1cxI0CgVncm91cBgCIAEoCzIlLlN1YnRlcmZ1Z2VSZW1h",
-            "a2VTZXJ2aWNlLk1lc3NhZ2VHcm91cCLXAQoJVXNlck1vZGVsEgoKAklkGAEg",
-            "ASgJEhAKCFVzZXJuYW1lGAIgASgJEhQKDFBhc3N3b3JkSGFzaBgDIAEoCRIN",
-            "CgVFbWFpbBgEIAEoCRIYChBkZXZpY2VJZGVudGlmaWVyGAUgASgJEhUKDWVt",
-            "YWlsVmVyaWZpZWQYBiABKAgSMgoGY2xhaW1zGAcgAygOMiIuU3VidGVyZnVn",
-            "ZVJlbWFrZVNlcnZpY2UuVXNlckNsYWltEiIKGnB1c2hOb3RpZmljYXRpb25J",
-            "ZGVudGlmaWVyGAggASgJIogDCglSb29tTW9kZWwSDgoGUm9vbUlkGAEgASgJ",
-            "EjcKClJvb21TdGF0dXMYAiABKA4yIy5TdWJ0ZXJmdWdlUmVtYWtlU2Vydmlj",
-            "ZS5Sb29tU3RhdHVzEhEKCWNyZWF0b3JJZBgDIAEoCRJFChFSYW5rZWRJbmZv",
-            "cm1hdGlvbhgEIAEoCzIqLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlJhbmtl",
-            "ZEluZm9ybWF0aW9uEhEKCUFub255bW91cxgFIAEoCBIQCghSb29tTmFtZRgG",
-            "IAEoCRIrCgRHb2FsGAcgASgOMh0uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
-            "R29hbBIMCgRTZWVkGAggASgFEhcKD1VuaXhUaW1lQ3JlYXRlZBgJIAEoAxIX",
-            "Cg9Vbml4VGltZVN0YXJ0ZWQYCiABKAMSEgoKTWF4UGxheWVycxgLIAEoAxIa",
-            "ChJhbGxvd2VkU3BlY2lhbGlzdHMYDCADKAkSFgoOTWludXRlc1BlclRpY2sY",
-            "DSABKAEiqwEKDkdhbWVFdmVudE1vZGVsEg8KB2V2ZW50SWQYASABKAkSFgoO",
-            "VW5peFRpbWVJc3N1ZWQYAiABKAMSFAoMT2NjdXJzQXRUaWNrGAMgASgFEhAK",
-            "CElzc3VlZEJ5GAQgASgJEhEKCUV2ZW50RGF0YRgFIAEoDBI1CglldmVudFR5",
-            "cGUYBiABKA4yIi5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5FdmVudFR5cGUi",
-            "UgoKR3JvdXBNb2RlbBIPCgdHcm91cElkGAEgASgJEjMKDEdyb3VwTWVtYmVy",
-            "cxgCIAMoCzIdLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlVzZXIiTAoMTWVz",
-            "c2FnZU1vZGVsEhkKEVVuaXhUaW1lQ3JlYXRlZEF0GAEgASgDEhAKCFNlbmRl",
-            "cklkGAIgASgJEg8KB01lc3NhZ2UYAyABKAkqLwoKUm9vbVN0YXR1cxIICgRP",
-            "UEVOEAASCwoHT05HT0lORxABEgoKBkNMT1NFRBACKiIKBEdvYWwSCgoGTUlO",
-            "SU5HEAASDgoKRE9NSU5BVElPThABKlYKCVVzZXJDbGFpbRILCgdVTktOT1dO",
-            "EAASCAoEVVNFUhABEgcKA0RFVhACEgkKBUFETUlOEAMSEgoORU1BSUxfVkVS",
-            "SUZJRUQQBBIKCgZCQU5ORUQQBSpJCglFdmVudFR5cGUSEQoNVU5LTk9XTl9F",
-            "VkVOVBAAEhAKDExBVU5DSF9FVkVOVBABEhcKE1RPR0dMRV9TSElFTERfRVZF",
-            "TlQQAjKMGgoRc3VidGVyZnVnZVNlcnZpY2USaAoFTG9naW4SLS5TdWJ0ZXJm",
-            "dWdlUmVtYWtlU2VydmljZS5BdXRob3JpemF0aW9uUmVxdWVzdBouLlN1YnRl",
-            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLkF1dGhvcml6YXRpb25SZXNwb25zZSIAEnMK",
-            "DkxvZ2luV2l0aFRva2VuEi8uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQXV0",
-            "aG9yaXplZFRva2VuUmVxdWVzdBouLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
-            "LkF1dGhvcml6YXRpb25SZXNwb25zZSIAEn4KD1JlZ2lzdGVyQWNjb3VudBIz",
-            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkFjY291bnRSZWdpc3RyYXRpb25S",
-            "ZXF1ZXN0GjQuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQWNjb3VudFJlZ2lz",
-            "dHJhdGlvblJlc3BvbnNlIgASbQoOR2V0T3BlbkxvYmJpZXMSKy5TdWJ0ZXJm",
-            "dWdlUmVtYWtlU2VydmljZS5PcGVuTG9iYmllc1JlcXVlc3QaLC5TdWJ0ZXJm",
-            "dWdlUmVtYWtlU2VydmljZS5PcGVuTG9iYmllc1Jlc3BvbnNlIgASggEKFUdl",
-            "dFBsYXllckN1cnJlbnRHYW1lcxIyLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
-            "LlBsYXllckN1cnJlbnRHYW1lc1JlcXVlc3QaMy5TdWJ0ZXJmdWdlUmVtYWtl",
-            "U2VydmljZS5QbGF5ZXJDdXJyZW50R2FtZXNSZXNwb25zZSIAEmoKDUNyZWF0",
-            "ZU5ld1Jvb20SKi5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5DcmVhdGVSb29t",
-            "UmVxdWVzdBorLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkNyZWF0ZVJvb21S",
-            "ZXNwb25zZSIAEmEKCEpvaW5Sb29tEiguU3VidGVyZnVnZVJlbWFrZVNlcnZp",
-            "Y2UuSm9pblJvb21SZXF1ZXN0GikuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
-            "Sm9pblJvb21SZXNwb25zZSIAEmQKCUxlYXZlUm9vbRIpLlN1YnRlcmZ1Z2VS",
-            "ZW1ha2VTZXJ2aWNlLkxlYXZlUm9vbVJlcXVlc3QaKi5TdWJ0ZXJmdWdlUmVt",
-            "YWtlU2VydmljZS5MZWF2ZVJvb21SZXNwb25zZSIAEnMKDlN0YXJ0R2FtZUVh",
-            "cmx5Ei4uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3RhcnRHYW1lRWFybHlS",
-            "ZXF1ZXN0Gi8uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3RhcnRHYW1lRWFy",
-            "bHlSZXNwb25zZSIAEnwKEUdldEdhbWVSb29tRXZlbnRzEjEuU3VidGVyZnVn",
-            "ZVJlbWFrZVNlcnZpY2UuR2V0R2FtZVJvb21FdmVudHNSZXF1ZXN0GjIuU3Vi",
-            "dGVyZnVnZVJlbWFrZVNlcnZpY2UuR2V0R2FtZVJvb21FdmVudHNSZXNwb25z",
-            "ZSIAEnYKD1N1Ym1pdEdhbWVFdmVudBIvLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2",
-            "aWNlLlN1Ym1pdEdhbWVFdmVudFJlcXVlc3QaMC5TdWJ0ZXJmdWdlUmVtYWtl",
-            "U2VydmljZS5TdWJtaXRHYW1lRXZlbnRSZXNwb25zZSIAEnYKD1VwZGF0ZUdh",
-            "bWVFdmVudBIvLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlVwZGF0ZUdhbWVF",
-            "dmVudFJlcXVlc3QaMC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5TdWJtaXRH",
-            "YW1lRXZlbnRSZXNwb25zZSIAEnYKD0RlbGV0ZUdhbWVFdmVudBIvLlN1YnRl",
-            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbGV0ZUdhbWVFdmVudFJlcXVlc3QaMC5T",
-            "dWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5EZWxldGVHYW1lRXZlbnRSZXNwb25z",
-            "ZSIAEn8KEkNyZWF0ZU1lc3NhZ2VHcm91cBIyLlN1YnRlcmZ1Z2VSZW1ha2VT",
-            "ZXJ2aWNlLkNyZWF0ZU1lc3NhZ2VHcm91cFJlcXVlc3QaMy5TdWJ0ZXJmdWdl",
-            "UmVtYWtlU2VydmljZS5DcmVhdGVNZXNzYWdlR3JvdXBSZXNwb25zZSIAEmoK",
-            "C1NlbmRNZXNzYWdlEisuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU2VuZE1l",
-            "c3NhZ2VSZXF1ZXN0GiwuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU2VuZE1l",
-            "c3NhZ2VSZXNwb25zZSIAEnkKEEdldE1lc3NhZ2VHcm91cHMSMC5TdWJ0ZXJm",
-            "dWdlUmVtYWtlU2VydmljZS5HZXRNZXNzYWdlR3JvdXBzUmVxdWVzdBoxLlN1",
-            "YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkdldE1lc3NhZ2VHcm91cHNSZXNwb25z",
-            "ZSIAEnkKEEdldEdyb3VwTWVzc2FnZXMSMC5TdWJ0ZXJmdWdlUmVtYWtlU2Vy",
-            "dmljZS5HZXRHcm91cE1lc3NhZ2VzUmVxdWVzdBoxLlN1YnRlcmZ1Z2VSZW1h",
-            "a2VTZXJ2aWNlLkdldEdyb3VwTWVzc2FnZXNSZXNwb25zZSIAEmoKC0Jsb2Nr",
-            "UGxheWVyEisuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQmxvY2tQbGF5ZXJS",
-            "ZXF1ZXN0GiwuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQmxvY2tQbGF5ZXJS",
-            "ZXNwb25zZSIAEnAKDVVuYmxvY2tQbGF5ZXISLS5TdWJ0ZXJmdWdlUmVtYWtl",
-            "U2VydmljZS5VbmJsb2NrUGxheWVyUmVxdWVzdBouLlN1YnRlcmZ1Z2VSZW1h",
-            "a2VTZXJ2aWNlLlVuYmxvY2tQbGF5ZXJSZXNwb25zZSIAEn8KElZpZXdCbG9j",
-            "a2VkUGxheWVycxIyLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlZpZXdCbG9j",
-            "a2VkUGxheWVyc1JlcXVlc3QaMy5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5W",
-            "aWV3QmxvY2tlZFBsYXllcnNSZXNwb25zZSIAEnwKEVNlbmRGcmllbmRSZXF1",
-            "ZXN0EjEuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU2VuZEZyaWVuZFJlcXVl",
-            "c3RSZXF1ZXN0GjIuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU2VuZEZyaWVu",
-            "ZFJlcXVlc3RSZXNwb25zZSIAEoIBChNBY2NlcHRGcmllbmRSZXF1ZXN0EjMu",
-            "U3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQWNjZXB0RnJpZW5kUmVxdWVzdFJl",
-            "cXVlc3QaNC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5BY2NlcHRGcmllbmRS",
-            "ZXF1ZXN0UmVzcG9uc2UiABJ8ChFEZW55RnJpZW5kUmVxdWVzdBIxLlN1YnRl",
-            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbnlGcmllbmRSZXF1ZXN0UmVxdWVzdBoy",
-            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbnlGcmllbmRSZXF1ZXN0UmVz",
-            "cG9uc2UiABJ/ChJWaWV3RnJpZW5kUmVxdWVzdHMSMi5TdWJ0ZXJmdWdlUmVt",
-            "YWtlU2VydmljZS5WaWV3RnJpZW5kUmVxdWVzdHNSZXF1ZXN0GjMuU3VidGVy",
-            "ZnVnZVJlbWFrZVNlcnZpY2UuVmlld0ZyaWVuZFJlcXVlc3RzUmVzcG9uc2Ui",
-            "ABJtCgxSZW1vdmVGcmllbmQSLC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5S",
-            "ZW1vdmVGcmllbmRSZXF1ZXN0Gi0uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
-            "UmVtb3ZlRnJpZW5kUmVzcG9uc2UiABJqCgtWaWV3RnJpZW5kcxIrLlN1YnRl",
-            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLlZpZXdGcmllbmRzUmVxdWVzdBosLlN1YnRl",
-            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLlZpZXdGcmllbmRzUmVzcG9uc2UiABJqCgtI",
-            "ZWFsdGhDaGVjaxIrLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkhlYWx0aENo",
-            "ZWNrUmVxdWVzdBosLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkhlYWx0aENo",
-            "ZWNrUmVzcG9uc2UiABKIAQoVQXV0aG9yaXplZEhlYWx0aENoZWNrEjUuU3Vi",
-            "dGVyZnVnZVJlbWFrZVNlcnZpY2UuQXV0aG9yaXplZEhlYWx0aENoZWNrUmVx",
-            "dWVzdBo2LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkF1dGhvcml6ZWRIZWFs",
-            "dGhDaGVja1Jlc3BvbnNlIgBCPgodc3VidGVyZnVnZVJlbWFrZS5ncnBjLnNl",
-            "cnZpY2VCFVN1YnRlcmZ1Z2VSZW1ha2VQcm90b1ABogIDU1JQYgZwcm90bzM="));
+            "a2VTZXJ2aWNlLk1lc3NhZ2VHcm91cCJoCh1TdWJtaXRDdXN0b21TcGVjaWFs",
+            "aXN0UmVxdWVzdBJHCg1Db25maWd1cmF0aW9uGAEgASgLMjAuU3VidGVyZnVn",
+            "ZVJlbWFrZVNlcnZpY2UuU3BlY2lhbGlzdENvbmZpZ3VyYXRpb24ifAoeU3Vi",
+            "bWl0Q3VzdG9tU3BlY2lhbGlzdFJlc3BvbnNlEjcKBnN0YXR1cxgBIAEoCzIn",
+            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlJlc3BvbnNlU3RhdHVzEiEKGVNw",
+            "ZWNpYWxpc3RDb25maWd1cmF0aW9uSWQYAiABKAkiRQobR2V0Q3VzdG9tU3Bl",
+            "Y2lhbGlzdHNSZXF1ZXN0EhIKCnBhZ2VOdW1iZXIYASABKAMSEgoKc2VhcmNo",
+            "VGVybRgCIAEoCSKkAQocR2V0Q3VzdG9tU3BlY2lhbGlzdHNSZXNwb25zZRI3",
+            "CgZzdGF0dXMYASABKAsyJy5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5SZXNw",
+            "b25zZVN0YXR1cxJLChFDdXN0b21TcGVjaWFsaXN0cxgCIAMoCzIwLlN1YnRl",
+            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLlNwZWNpYWxpc3RDb25maWd1cmF0aW9uImcK",
+            "HkNyZWF0ZVNwZWNpYWxpc3RQYWNrYWdlUmVxdWVzdBJFChFTcGVjaWFsaXN0",
+            "UGFja2FnZRgBIAEoCzIqLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlNwZWNp",
+            "YWxpc3RQYWNrYWdlIncKH0NyZWF0ZVNwZWNpYWxpc3RQYWNrYWdlUmVzcG9u",
+            "c2USNwoGc3RhdHVzGAEgASgLMicuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
+            "UmVzcG9uc2VTdGF0dXMSGwoTU3BlY2lhbGlzdFBhY2thZ2VJZBgCIAEoCSJG",
+            "ChxHZXRTcGVjaWFsaXN0UGFja2FnZXNSZXF1ZXN0EhIKCnBhZ2VOdW1iZXIY",
+            "ASABKAMSEgoKc2VhcmNoVGVybRgCIAEoCSKgAQodR2V0U3BlY2lhbGlzdFBh",
+            "Y2thZ2VzUmVzcG9uc2USNwoGc3RhdHVzGAEgASgLMicuU3VidGVyZnVnZVJl",
+            "bWFrZVNlcnZpY2UuUmVzcG9uc2VTdGF0dXMSRgoSU3BlY2lhbGlzdFBhY2th",
+            "Z2VzGAIgAygLMiouU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3BlY2lhbGlz",
+            "dFBhY2thZ2UiNQohR2V0UGxheWVyQ3VzdG9tU3BlY2lhbGlzdHNSZXF1ZXN0",
+            "EhAKCHBsYXllcklkGAEgASgJIqoBCiJHZXRQbGF5ZXJDdXN0b21TcGVjaWFs",
+            "aXN0c1Jlc3BvbnNlEjcKBnN0YXR1cxgBIAEoCzInLlN1YnRlcmZ1Z2VSZW1h",
+            "a2VTZXJ2aWNlLlJlc3BvbnNlU3RhdHVzEksKEVBsYXllclNwZWNpYWxpc3Rz",
+            "GAIgAygLMjAuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3BlY2lhbGlzdENv",
+            "bmZpZ3VyYXRpb24iNgoiR2V0UGxheWVyU3BlY2lhbGlzdFBhY2thZ2VzUmVx",
+            "dWVzdBIQCghwbGF5ZXJJZBgBIAEoCSKiAQojR2V0UGxheWVyU3BlY2lhbGlz",
+            "dFBhY2thZ2VzUmVzcG9uc2USNwoGc3RhdHVzGAEgASgLMicuU3VidGVyZnVn",
+            "ZVJlbWFrZVNlcnZpY2UuUmVzcG9uc2VTdGF0dXMSQgoOUGxheWVyUGFja2Fn",
+            "ZXMYAiADKAsyKi5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5TcGVjaWFsaXN0",
+            "UGFja2FnZSLXAQoJVXNlck1vZGVsEgoKAklkGAEgASgJEhAKCFVzZXJuYW1l",
+            "GAIgASgJEhQKDFBhc3N3b3JkSGFzaBgDIAEoCRINCgVFbWFpbBgEIAEoCRIY",
+            "ChBkZXZpY2VJZGVudGlmaWVyGAUgASgJEhUKDWVtYWlsVmVyaWZpZWQYBiAB",
+            "KAgSMgoGY2xhaW1zGAcgAygOMiIuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
+            "VXNlckNsYWltEiIKGnB1c2hOb3RpZmljYXRpb25JZGVudGlmaWVyGAggASgJ",
+            "IogDCglSb29tTW9kZWwSDgoGUm9vbUlkGAEgASgJEjcKClJvb21TdGF0dXMY",
+            "AiABKA4yIy5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5Sb29tU3RhdHVzEhEK",
+            "CWNyZWF0b3JJZBgDIAEoCRJFChFSYW5rZWRJbmZvcm1hdGlvbhgEIAEoCzIq",
+            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlJhbmtlZEluZm9ybWF0aW9uEhEK",
+            "CUFub255bW91cxgFIAEoCBIQCghSb29tTmFtZRgGIAEoCRIrCgRHb2FsGAcg",
+            "ASgOMh0uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuR29hbBIMCgRTZWVkGAgg",
+            "ASgFEhcKD1VuaXhUaW1lQ3JlYXRlZBgJIAEoAxIXCg9Vbml4VGltZVN0YXJ0",
+            "ZWQYCiABKAMSEgoKTWF4UGxheWVycxgLIAEoAxIaChJhbGxvd2VkU3BlY2lh",
+            "bGlzdHMYDCADKAkSFgoOTWludXRlc1BlclRpY2sYDSABKAEiqwEKDkdhbWVF",
+            "dmVudE1vZGVsEg8KB2V2ZW50SWQYASABKAkSFgoOVW5peFRpbWVJc3N1ZWQY",
+            "AiABKAMSFAoMT2NjdXJzQXRUaWNrGAMgASgFEhAKCElzc3VlZEJ5GAQgASgJ",
+            "EhEKCUV2ZW50RGF0YRgFIAEoDBI1CglldmVudFR5cGUYBiABKA4yIi5TdWJ0",
+            "ZXJmdWdlUmVtYWtlU2VydmljZS5FdmVudFR5cGUiUgoKR3JvdXBNb2RlbBIP",
+            "CgdHcm91cElkGAEgASgJEjMKDEdyb3VwTWVtYmVycxgCIAMoCzIdLlN1YnRl",
+            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLlVzZXIiTAoMTWVzc2FnZU1vZGVsEhkKEVVu",
+            "aXhUaW1lQ3JlYXRlZEF0GAEgASgDEhAKCFNlbmRlcklkGAIgASgJEg8KB01l",
+            "c3NhZ2UYAyABKAki3AEKF1NwZWNpYWxpc3RDb25maWd1cmF0aW9uEhQKDFNw",
+            "ZWNpYWxpc3RJZBgBIAEoCRIQCghQcmlvcml0eRgCIAEoAxIWCg5TcGVjaWFs",
+            "aXN0TmFtZRgDIAEoCRIuCgdDcmVhdG9yGAQgASgLMh0uU3VidGVyZnVnZVJl",
+            "bWFrZVNlcnZpY2UuVXNlchJRChFzcGVjaWFsaXN0RWZmZWN0cxgFIAMoCzI2",
+            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlNwZWNpYWxpc3RFZmZlY3RDb25m",
+            "aWd1cmF0aW9uIvkCCh1TcGVjaWFsaXN0RWZmZWN0Q29uZmlndXJhdGlvbhIN",
+            "CgVWYWx1ZRgBIAEoAxI9Cg1FZmZlY3RUcmlnZ2VyGAIgASgOMiYuU3VidGVy",
+            "ZnVnZVJlbWFrZVNlcnZpY2UuRWZmZWN0VHJpZ2dlchI7CgxFZmZlY3RUYXJn",
+            "ZXQYAyABKA4yJS5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5FZmZlY3RUYXJn",
+            "ZXQSRwoSRWZmZWN0VHJpZ2dlclJhbmdlGAQgASgOMisuU3VidGVyZnVnZVJl",
+            "bWFrZVNlcnZpY2UuRWZmZWN0VHJpZ2dlclJhbmdlEj8KDkVmZmVjdE1vZGlm",
+            "aWVyGAUgASgOMicuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuRWZmZWN0TW9k",
+            "aWZpZXISQwoLRWZmZWN0U2NhbGUYBiABKAsyLi5TdWJ0ZXJmdWdlUmVtYWtl",
+            "U2VydmljZS5TcGVjaWFsaXN0RWZmZWN0U2NhbGUi3AEKFVNwZWNpYWxpc3RF",
+            "ZmZlY3RTY2FsZRI5CgtFZmZlY3RTY2FsZRgGIAEoDjIkLlN1YnRlcmZ1Z2VS",
+            "ZW1ha2VTZXJ2aWNlLkVmZmVjdFNjYWxlEkAKEUVmZmVjdFNjYWxlVGFyZ2V0",
+            "GAcgASgOMiUuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuRWZmZWN0VGFyZ2V0",
+            "EkYKEVNjYWxlVHJpZ2dlclJhbmdlGAggASgOMisuU3VidGVyZnVnZVJlbWFr",
+            "ZVNlcnZpY2UuRWZmZWN0VHJpZ2dlclJhbmdlIqoBChFTcGVjaWFsaXN0UGFj",
+            "a2FnZRIuCgdDcmVhdG9yGAEgASgLMh0uU3VidGVyZnVnZVJlbWFrZVNlcnZp",
+            "Y2UuVXNlchITCgtQYWNrYWdlTmFtZRgCIAEoCRIbChNTcGVjaWFsaXN0UGFj",
+            "a2FnZUlkGAMgASgJEhUKDXNwZWNpYWxpc3RJZHMYBCADKAkSHAoUU3BlY2lh",
+            "bGlzdFBhY2thZ2VJZHMYBSADKAkidAoeU3BlY2lhbGlzdFBhY2thZ2VDb25m",
+            "aWd1cmF0aW9uElIKGFNwZWNpYWxpc3RDb25maWd1cmF0aW9ucxgCIAMoCzIw",
+            "LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlNwZWNpYWxpc3RDb25maWd1cmF0",
+            "aW9uKi8KClJvb21TdGF0dXMSCAoET1BFThAAEgsKB09OR09JTkcQARIKCgZD",
+            "TE9TRUQQAioiCgRHb2FsEgoKBk1JTklORxAAEg4KCkRPTUlOQVRJT04QASpW",
+            "CglVc2VyQ2xhaW0SCwoHVU5LTk9XThAAEggKBFVTRVIQARIHCgNERVYQAhIJ",
+            "CgVBRE1JThADEhIKDkVNQUlMX1ZFUklGSUVEEAQSCgoGQkFOTkVEEAUqSQoJ",
+            "RXZlbnRUeXBlEhEKDVVOS05PV05fRVZFTlQQABIQCgxMQVVOQ0hfRVZFTlQQ",
+            "ARIXChNUT0dHTEVfU0hJRUxEX0VWRU5UEAIqywEKDUVmZmVjdFRyaWdnZXIS",
+            "DQoJTm9UcmlnZ2VyEAASCAoESGlyZRABEgsKB1Byb21vdGUQAhINCglTdWJM",
+            "YXVuY2gQAxINCglTdWJBcnJpdmUQBBIRCg1PdXRwb3N0Q29tYmF0EAUSDQoJ",
+            "U3ViQ29tYmF0EAYSDgoKQ29tYmF0TG9zcxAHEhEKDUNvbWJhdFZpY3RvcnkQ",
+            "CBISCg5GYWN0b3J5UHJvZHVjZRAJEg8KC01pbmVQcm9kdWNlEAoSDAoIU3Vi",
+            "RW50ZXIQCypaCgxFZmZlY3RUYXJnZXQSDAoITm9UYXJnZXQQABIMCghGaXJl",
+            "bmRseRABEgkKBUVuZW15EAISGgoWQm90aENvbWJhdFBhcnRpY2lwYW50cxAD",
+            "EgcKA0FsbBAEKngKEkVmZmVjdFRyaWdnZXJSYW5nZRIICgRTZWxmEAASCQoF",
+            "TG9jYWwQARIRCg1Db25zdGFudFJhbmdlEAISFwoTTG9jYXRpb25WaXNpb25S",
+            "YW5nZRADEhUKEVBsYXllclZpc2lvblJhbmdlEAQSCgoGR2xvYmFsEAUqzgEK",
+            "DkVmZmVjdE1vZGlmaWVyEgsKB0RyaWxsZXIQABIWChJTcGVjaWFsaXN0Q2Fw",
+            "YWNpdHkQARIPCgtTaGllbGRWYWx1ZRACEhYKElNoaWVsZFJlZ2VuZXJhdGlv",
+            "bhADEhIKDlNoaWVsZE1heFZhbHVlEAQSCgoGVmlzaW9uEAUSCQoFU3BlZWQQ",
+            "BhIOCgpLaWxsUGxheWVyEAcSEQoNVmljdG9yeVBsYXllchAIEhIKDktpbGxT",
+            "cGVjaWFsaXN0EAkSDAoITm9FZmZlY3QQCiqlAQoLRWZmZWN0U2NhbGUSCwoH",
+            "Tm9TY2FsZRAAEhEKDUNvbnN0YW50VmFsdWUQARIWChJQbGF5ZXJPdXRwb3N0",
+            "Q291bnQQAhITCg9QbGF5ZXJNaW5lQ291bnQQAxIWChJQbGF5ZXJGYWN0b3J5",
+            "Q291bnQQBBIWChJQbGF5ZXJEcmlsbGVyQ291bnQQBRIZChVQbGF5ZXJTcGVj",
+            "aWFsaXN0Q291bnQQBjL1IAoRc3VidGVyZnVnZVNlcnZpY2USaAoFTG9naW4S",
+            "LS5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5BdXRob3JpemF0aW9uUmVxdWVz",
+            "dBouLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkF1dGhvcml6YXRpb25SZXNw",
+            "b25zZSIAEnMKDkxvZ2luV2l0aFRva2VuEi8uU3VidGVyZnVnZVJlbWFrZVNl",
+            "cnZpY2UuQXV0aG9yaXplZFRva2VuUmVxdWVzdBouLlN1YnRlcmZ1Z2VSZW1h",
+            "a2VTZXJ2aWNlLkF1dGhvcml6YXRpb25SZXNwb25zZSIAEn4KD1JlZ2lzdGVy",
+            "QWNjb3VudBIzLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkFjY291bnRSZWdp",
+            "c3RyYXRpb25SZXF1ZXN0GjQuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQWNj",
+            "b3VudFJlZ2lzdHJhdGlvblJlc3BvbnNlIgASbQoOR2V0T3BlbkxvYmJpZXMS",
+            "Ky5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5PcGVuTG9iYmllc1JlcXVlc3Qa",
+            "LC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5PcGVuTG9iYmllc1Jlc3BvbnNl",
+            "IgASggEKFUdldFBsYXllckN1cnJlbnRHYW1lcxIyLlN1YnRlcmZ1Z2VSZW1h",
+            "a2VTZXJ2aWNlLlBsYXllckN1cnJlbnRHYW1lc1JlcXVlc3QaMy5TdWJ0ZXJm",
+            "dWdlUmVtYWtlU2VydmljZS5QbGF5ZXJDdXJyZW50R2FtZXNSZXNwb25zZSIA",
+            "EmoKDUNyZWF0ZU5ld1Jvb20SKi5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5D",
+            "cmVhdGVSb29tUmVxdWVzdBorLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkNy",
+            "ZWF0ZVJvb21SZXNwb25zZSIAEmEKCEpvaW5Sb29tEiguU3VidGVyZnVnZVJl",
+            "bWFrZVNlcnZpY2UuSm9pblJvb21SZXF1ZXN0GikuU3VidGVyZnVnZVJlbWFr",
+            "ZVNlcnZpY2UuSm9pblJvb21SZXNwb25zZSIAEmQKCUxlYXZlUm9vbRIpLlN1",
+            "YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkxlYXZlUm9vbVJlcXVlc3QaKi5TdWJ0",
+            "ZXJmdWdlUmVtYWtlU2VydmljZS5MZWF2ZVJvb21SZXNwb25zZSIAEnMKDlN0",
+            "YXJ0R2FtZUVhcmx5Ei4uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3RhcnRH",
+            "YW1lRWFybHlSZXF1ZXN0Gi8uU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU3Rh",
+            "cnRHYW1lRWFybHlSZXNwb25zZSIAEnwKEUdldEdhbWVSb29tRXZlbnRzEjEu",
+            "U3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuR2V0R2FtZVJvb21FdmVudHNSZXF1",
+            "ZXN0GjIuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuR2V0R2FtZVJvb21FdmVu",
+            "dHNSZXNwb25zZSIAEnYKD1N1Ym1pdEdhbWVFdmVudBIvLlN1YnRlcmZ1Z2VS",
+            "ZW1ha2VTZXJ2aWNlLlN1Ym1pdEdhbWVFdmVudFJlcXVlc3QaMC5TdWJ0ZXJm",
+            "dWdlUmVtYWtlU2VydmljZS5TdWJtaXRHYW1lRXZlbnRSZXNwb25zZSIAEnYK",
+            "D1VwZGF0ZUdhbWVFdmVudBIvLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlVw",
+            "ZGF0ZUdhbWVFdmVudFJlcXVlc3QaMC5TdWJ0ZXJmdWdlUmVtYWtlU2Vydmlj",
+            "ZS5TdWJtaXRHYW1lRXZlbnRSZXNwb25zZSIAEnYKD0RlbGV0ZUdhbWVFdmVu",
+            "dBIvLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbGV0ZUdhbWVFdmVudFJl",
+            "cXVlc3QaMC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5EZWxldGVHYW1lRXZl",
+            "bnRSZXNwb25zZSIAEn8KEkNyZWF0ZU1lc3NhZ2VHcm91cBIyLlN1YnRlcmZ1",
+            "Z2VSZW1ha2VTZXJ2aWNlLkNyZWF0ZU1lc3NhZ2VHcm91cFJlcXVlc3QaMy5T",
+            "dWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5DcmVhdGVNZXNzYWdlR3JvdXBSZXNw",
+            "b25zZSIAEmoKC1NlbmRNZXNzYWdlEisuU3VidGVyZnVnZVJlbWFrZVNlcnZp",
+            "Y2UuU2VuZE1lc3NhZ2VSZXF1ZXN0GiwuU3VidGVyZnVnZVJlbWFrZVNlcnZp",
+            "Y2UuU2VuZE1lc3NhZ2VSZXNwb25zZSIAEnkKEEdldE1lc3NhZ2VHcm91cHMS",
+            "MC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5HZXRNZXNzYWdlR3JvdXBzUmVx",
+            "dWVzdBoxLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkdldE1lc3NhZ2VHcm91",
+            "cHNSZXNwb25zZSIAEnkKEEdldEdyb3VwTWVzc2FnZXMSMC5TdWJ0ZXJmdWdl",
+            "UmVtYWtlU2VydmljZS5HZXRHcm91cE1lc3NhZ2VzUmVxdWVzdBoxLlN1YnRl",
+            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLkdldEdyb3VwTWVzc2FnZXNSZXNwb25zZSIA",
+            "EmoKC0Jsb2NrUGxheWVyEisuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQmxv",
+            "Y2tQbGF5ZXJSZXF1ZXN0GiwuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQmxv",
+            "Y2tQbGF5ZXJSZXNwb25zZSIAEnAKDVVuYmxvY2tQbGF5ZXISLS5TdWJ0ZXJm",
+            "dWdlUmVtYWtlU2VydmljZS5VbmJsb2NrUGxheWVyUmVxdWVzdBouLlN1YnRl",
+            "cmZ1Z2VSZW1ha2VTZXJ2aWNlLlVuYmxvY2tQbGF5ZXJSZXNwb25zZSIAEn8K",
+            "ElZpZXdCbG9ja2VkUGxheWVycxIyLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
+            "LlZpZXdCbG9ja2VkUGxheWVyc1JlcXVlc3QaMy5TdWJ0ZXJmdWdlUmVtYWtl",
+            "U2VydmljZS5WaWV3QmxvY2tlZFBsYXllcnNSZXNwb25zZSIAEnwKEVNlbmRG",
+            "cmllbmRSZXF1ZXN0EjEuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuU2VuZEZy",
+            "aWVuZFJlcXVlc3RSZXF1ZXN0GjIuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2Uu",
+            "U2VuZEZyaWVuZFJlcXVlc3RSZXNwb25zZSIAEoIBChNBY2NlcHRGcmllbmRS",
+            "ZXF1ZXN0EjMuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQWNjZXB0RnJpZW5k",
+            "UmVxdWVzdFJlcXVlc3QaNC5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5BY2Nl",
+            "cHRGcmllbmRSZXF1ZXN0UmVzcG9uc2UiABJ8ChFEZW55RnJpZW5kUmVxdWVz",
+            "dBIxLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbnlGcmllbmRSZXF1ZXN0",
+            "UmVxdWVzdBoyLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkRlbnlGcmllbmRS",
+            "ZXF1ZXN0UmVzcG9uc2UiABJ/ChJWaWV3RnJpZW5kUmVxdWVzdHMSMi5TdWJ0",
+            "ZXJmdWdlUmVtYWtlU2VydmljZS5WaWV3RnJpZW5kUmVxdWVzdHNSZXF1ZXN0",
+            "GjMuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuVmlld0ZyaWVuZFJlcXVlc3Rz",
+            "UmVzcG9uc2UiABJtCgxSZW1vdmVGcmllbmQSLC5TdWJ0ZXJmdWdlUmVtYWtl",
+            "U2VydmljZS5SZW1vdmVGcmllbmRSZXF1ZXN0Gi0uU3VidGVyZnVnZVJlbWFr",
+            "ZVNlcnZpY2UuUmVtb3ZlRnJpZW5kUmVzcG9uc2UiABJqCgtWaWV3RnJpZW5k",
+            "cxIrLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlZpZXdGcmllbmRzUmVxdWVz",
+            "dBosLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLlZpZXdGcmllbmRzUmVzcG9u",
+            "c2UiABJqCgtIZWFsdGhDaGVjaxIrLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
+            "LkhlYWx0aENoZWNrUmVxdWVzdBosLlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
+            "LkhlYWx0aENoZWNrUmVzcG9uc2UiABKIAQoVQXV0aG9yaXplZEhlYWx0aENo",
+            "ZWNrEjUuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQXV0aG9yaXplZEhlYWx0",
+            "aENoZWNrUmVxdWVzdBo2LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkF1dGhv",
+            "cml6ZWRIZWFsdGhDaGVja1Jlc3BvbnNlIgASiwEKFlN1Ym1pdEN1c3RvbVNw",
+            "ZWNpYWxpc3QSNi5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5TdWJtaXRDdXN0",
+            "b21TcGVjaWFsaXN0UmVxdWVzdBo3LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNl",
+            "LlN1Ym1pdEN1c3RvbVNwZWNpYWxpc3RSZXNwb25zZSIAEoUBChRHZXRDdXN0",
+            "b21TcGVjaWFsaXN0cxI0LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2aWNlLkdldEN1",
+            "c3RvbVNwZWNpYWxpc3RzUmVxdWVzdBo1LlN1YnRlcmZ1Z2VSZW1ha2VTZXJ2",
+            "aWNlLkdldEN1c3RvbVNwZWNpYWxpc3RzUmVzcG9uc2UiABKXAQoaR2V0UGxh",
+            "eWVyQ3VzdG9tU3BlY2lhbGlzdHMSOi5TdWJ0ZXJmdWdlUmVtYWtlU2Vydmlj",
+            "ZS5HZXRQbGF5ZXJDdXN0b21TcGVjaWFsaXN0c1JlcXVlc3QaOy5TdWJ0ZXJm",
+            "dWdlUmVtYWtlU2VydmljZS5HZXRQbGF5ZXJDdXN0b21TcGVjaWFsaXN0c1Jl",
+            "c3BvbnNlIgASjgEKF0NyZWF0ZVNwZWNpYWxpc3RQYWNrYWdlEjcuU3VidGVy",
+            "ZnVnZVJlbWFrZVNlcnZpY2UuQ3JlYXRlU3BlY2lhbGlzdFBhY2thZ2VSZXF1",
+            "ZXN0GjguU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuQ3JlYXRlU3BlY2lhbGlz",
+            "dFBhY2thZ2VSZXNwb25zZSIAEogBChVHZXRTcGVjaWFsaXN0UGFja2FnZXMS",
+            "NS5TdWJ0ZXJmdWdlUmVtYWtlU2VydmljZS5HZXRTcGVjaWFsaXN0UGFja2Fn",
+            "ZXNSZXF1ZXN0GjYuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuR2V0U3BlY2lh",
+            "bGlzdFBhY2thZ2VzUmVzcG9uc2UiABKaAQobR2V0UGxheWVyU3BlY2lhbGlz",
+            "dFBhY2thZ2VzEjsuU3VidGVyZnVnZVJlbWFrZVNlcnZpY2UuR2V0UGxheWVy",
+            "U3BlY2lhbGlzdFBhY2thZ2VzUmVxdWVzdBo8LlN1YnRlcmZ1Z2VSZW1ha2VT",
+            "ZXJ2aWNlLkdldFBsYXllclNwZWNpYWxpc3RQYWNrYWdlc1Jlc3BvbnNlIgBC",
+            "Pgodc3VidGVyZnVnZVJlbWFrZS5ncnBjLnNlcnZpY2VCFVN1YnRlcmZ1Z2VS",
+            "ZW1ha2VQcm90b1ABogIDU1JQYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
-          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::SubterfugeRemakeService.RoomStatus), typeof(global::SubterfugeRemakeService.Goal), typeof(global::SubterfugeRemakeService.UserClaim), typeof(global::SubterfugeRemakeService.EventType), }, new pbr::GeneratedClrTypeInfo[] {
+          new pbr::GeneratedClrTypeInfo(new[] {typeof(global::SubterfugeRemakeService.RoomStatus), typeof(global::SubterfugeRemakeService.Goal), typeof(global::SubterfugeRemakeService.UserClaim), typeof(global::SubterfugeRemakeService.EventType), typeof(global::SubterfugeRemakeService.EffectTrigger), typeof(global::SubterfugeRemakeService.EffectTarget), typeof(global::SubterfugeRemakeService.EffectTriggerRange), typeof(global::SubterfugeRemakeService.EffectModifier), typeof(global::SubterfugeRemakeService.EffectScale), }, new pbr::GeneratedClrTypeInfo[] {
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.ResponseStatus), global::SubterfugeRemakeService.ResponseStatus.Parser, new[]{ "IsSuccess", "Detail" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.AuthorizationRequest), global::SubterfugeRemakeService.AuthorizationRequest.Parser, new[]{ "Username", "Password" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.AuthorizedTokenRequest), global::SubterfugeRemakeService.AuthorizedTokenRequest.Parser, new[]{ "Token" }, null, null, null),
@@ -310,11 +403,28 @@ namespace SubterfugeRemakeService {
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.PlayerCurrentGamesResponse), global::SubterfugeRemakeService.PlayerCurrentGamesResponse.Parser, new[]{ "Status", "Games" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetGroupMessagesRequest), global::SubterfugeRemakeService.GetGroupMessagesRequest.Parser, new[]{ "RoomId", "GroupId", "Pagination" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetGroupMessagesResponse), global::SubterfugeRemakeService.GetGroupMessagesResponse.Parser, new[]{ "Status", "Group" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SubmitCustomSpecialistRequest), global::SubterfugeRemakeService.SubmitCustomSpecialistRequest.Parser, new[]{ "Configuration" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SubmitCustomSpecialistResponse), global::SubterfugeRemakeService.SubmitCustomSpecialistResponse.Parser, new[]{ "Status", "SpecialistConfigurationId" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetCustomSpecialistsRequest), global::SubterfugeRemakeService.GetCustomSpecialistsRequest.Parser, new[]{ "PageNumber", "SearchTerm" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetCustomSpecialistsResponse), global::SubterfugeRemakeService.GetCustomSpecialistsResponse.Parser, new[]{ "Status", "CustomSpecialists" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.CreateSpecialistPackageRequest), global::SubterfugeRemakeService.CreateSpecialistPackageRequest.Parser, new[]{ "SpecialistPackage" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.CreateSpecialistPackageResponse), global::SubterfugeRemakeService.CreateSpecialistPackageResponse.Parser, new[]{ "Status", "SpecialistPackageId" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetSpecialistPackagesRequest), global::SubterfugeRemakeService.GetSpecialistPackagesRequest.Parser, new[]{ "PageNumber", "SearchTerm" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetSpecialistPackagesResponse), global::SubterfugeRemakeService.GetSpecialistPackagesResponse.Parser, new[]{ "Status", "SpecialistPackages" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetPlayerCustomSpecialistsRequest), global::SubterfugeRemakeService.GetPlayerCustomSpecialistsRequest.Parser, new[]{ "PlayerId" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetPlayerCustomSpecialistsResponse), global::SubterfugeRemakeService.GetPlayerCustomSpecialistsResponse.Parser, new[]{ "Status", "PlayerSpecialists" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetPlayerSpecialistPackagesRequest), global::SubterfugeRemakeService.GetPlayerSpecialistPackagesRequest.Parser, new[]{ "PlayerId" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GetPlayerSpecialistPackagesResponse), global::SubterfugeRemakeService.GetPlayerSpecialistPackagesResponse.Parser, new[]{ "Status", "PlayerPackages" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.UserModel), global::SubterfugeRemakeService.UserModel.Parser, new[]{ "Id", "Username", "PasswordHash", "Email", "DeviceIdentifier", "EmailVerified", "Claims", "PushNotificationIdentifier" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.RoomModel), global::SubterfugeRemakeService.RoomModel.Parser, new[]{ "RoomId", "RoomStatus", "CreatorId", "RankedInformation", "Anonymous", "RoomName", "Goal", "Seed", "UnixTimeCreated", "UnixTimeStarted", "MaxPlayers", "AllowedSpecialists", "MinutesPerTick" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GameEventModel), global::SubterfugeRemakeService.GameEventModel.Parser, new[]{ "EventId", "UnixTimeIssued", "OccursAtTick", "IssuedBy", "EventData", "EventType" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.GroupModel), global::SubterfugeRemakeService.GroupModel.Parser, new[]{ "GroupId", "GroupMembers" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.MessageModel), global::SubterfugeRemakeService.MessageModel.Parser, new[]{ "UnixTimeCreatedAt", "SenderId", "Message" }, null, null, null)
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.MessageModel), global::SubterfugeRemakeService.MessageModel.Parser, new[]{ "UnixTimeCreatedAt", "SenderId", "Message" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SpecialistConfiguration), global::SubterfugeRemakeService.SpecialistConfiguration.Parser, new[]{ "SpecialistId", "Priority", "SpecialistName", "Creator", "SpecialistEffects" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SpecialistEffectConfiguration), global::SubterfugeRemakeService.SpecialistEffectConfiguration.Parser, new[]{ "Value", "EffectTrigger", "EffectTarget", "EffectTriggerRange", "EffectModifier", "EffectScale" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SpecialistEffectScale), global::SubterfugeRemakeService.SpecialistEffectScale.Parser, new[]{ "EffectScale", "EffectScaleTarget", "ScaleTriggerRange" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SpecialistPackage), global::SubterfugeRemakeService.SpecialistPackage.Parser, new[]{ "Creator", "PackageName", "SpecialistPackageId", "SpecialistIds", "SpecialistPackageIds" }, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::SubterfugeRemakeService.SpecialistPackageConfiguration), global::SubterfugeRemakeService.SpecialistPackageConfiguration.Parser, new[]{ "SpecialistConfigurations" }, null, null, null)
           }));
     }
     #endregion
@@ -345,6 +455,62 @@ namespace SubterfugeRemakeService {
     [pbr::OriginalName("UNKNOWN_EVENT")] UnknownEvent = 0,
     [pbr::OriginalName("LAUNCH_EVENT")] LaunchEvent = 1,
     [pbr::OriginalName("TOGGLE_SHIELD_EVENT")] ToggleShieldEvent = 2,
+  }
+
+  public enum EffectTrigger {
+    [pbr::OriginalName("NoTrigger")] NoTrigger = 0,
+    [pbr::OriginalName("Hire")] Hire = 1,
+    [pbr::OriginalName("Promote")] Promote = 2,
+    [pbr::OriginalName("SubLaunch")] SubLaunch = 3,
+    [pbr::OriginalName("SubArrive")] SubArrive = 4,
+    [pbr::OriginalName("OutpostCombat")] OutpostCombat = 5,
+    [pbr::OriginalName("SubCombat")] SubCombat = 6,
+    [pbr::OriginalName("CombatLoss")] CombatLoss = 7,
+    [pbr::OriginalName("CombatVictory")] CombatVictory = 8,
+    [pbr::OriginalName("FactoryProduce")] FactoryProduce = 9,
+    [pbr::OriginalName("MineProduce")] MineProduce = 10,
+    [pbr::OriginalName("SubEnter")] SubEnter = 11,
+  }
+
+  public enum EffectTarget {
+    [pbr::OriginalName("NoTarget")] NoTarget = 0,
+    [pbr::OriginalName("Firendly")] Firendly = 1,
+    [pbr::OriginalName("Enemy")] Enemy = 2,
+    [pbr::OriginalName("BothCombatParticipants")] BothCombatParticipants = 3,
+    [pbr::OriginalName("All")] All = 4,
+  }
+
+  public enum EffectTriggerRange {
+    [pbr::OriginalName("Self")] Self = 0,
+    [pbr::OriginalName("Local")] Local = 1,
+    [pbr::OriginalName("ConstantRange")] ConstantRange = 2,
+    [pbr::OriginalName("LocationVisionRange")] LocationVisionRange = 3,
+    [pbr::OriginalName("PlayerVisionRange")] PlayerVisionRange = 4,
+    [pbr::OriginalName("Global")] Global = 5,
+  }
+
+  public enum EffectModifier {
+    [pbr::OriginalName("Driller")] Driller = 0,
+    [pbr::OriginalName("SpecialistCapacity")] SpecialistCapacity = 1,
+    [pbr::OriginalName("ShieldValue")] ShieldValue = 2,
+    [pbr::OriginalName("ShieldRegeneration")] ShieldRegeneration = 3,
+    [pbr::OriginalName("ShieldMaxValue")] ShieldMaxValue = 4,
+    [pbr::OriginalName("Vision")] Vision = 5,
+    [pbr::OriginalName("Speed")] Speed = 6,
+    [pbr::OriginalName("KillPlayer")] KillPlayer = 7,
+    [pbr::OriginalName("VictoryPlayer")] VictoryPlayer = 8,
+    [pbr::OriginalName("KillSpecialist")] KillSpecialist = 9,
+    [pbr::OriginalName("NoEffect")] NoEffect = 10,
+  }
+
+  public enum EffectScale {
+    [pbr::OriginalName("NoScale")] NoScale = 0,
+    [pbr::OriginalName("ConstantValue")] ConstantValue = 1,
+    [pbr::OriginalName("PlayerOutpostCount")] PlayerOutpostCount = 2,
+    [pbr::OriginalName("PlayerMineCount")] PlayerMineCount = 3,
+    [pbr::OriginalName("PlayerFactoryCount")] PlayerFactoryCount = 4,
+    [pbr::OriginalName("PlayerDrillerCount")] PlayerDrillerCount = 5,
+    [pbr::OriginalName("PlayerSpecialistCount")] PlayerSpecialistCount = 6,
   }
 
   #endregion
@@ -9618,6 +9784,1794 @@ namespace SubterfugeRemakeService {
 
   }
 
+  public sealed partial class SubmitCustomSpecialistRequest : pb::IMessage<SubmitCustomSpecialistRequest> {
+    private static readonly pb::MessageParser<SubmitCustomSpecialistRequest> _parser = new pb::MessageParser<SubmitCustomSpecialistRequest>(() => new SubmitCustomSpecialistRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SubmitCustomSpecialistRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[60]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistRequest(SubmitCustomSpecialistRequest other) : this() {
+      configuration_ = other.configuration_ != null ? other.configuration_.Clone() : null;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistRequest Clone() {
+      return new SubmitCustomSpecialistRequest(this);
+    }
+
+    /// <summary>Field number for the "Configuration" field.</summary>
+    public const int ConfigurationFieldNumber = 1;
+    private global::SubterfugeRemakeService.SpecialistConfiguration configuration_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.SpecialistConfiguration Configuration {
+      get { return configuration_; }
+      set {
+        configuration_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SubmitCustomSpecialistRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SubmitCustomSpecialistRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Configuration, other.Configuration)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (configuration_ != null) hash ^= Configuration.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (configuration_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Configuration);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (configuration_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Configuration);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SubmitCustomSpecialistRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.configuration_ != null) {
+        if (configuration_ == null) {
+          Configuration = new global::SubterfugeRemakeService.SpecialistConfiguration();
+        }
+        Configuration.MergeFrom(other.Configuration);
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (configuration_ == null) {
+              Configuration = new global::SubterfugeRemakeService.SpecialistConfiguration();
+            }
+            input.ReadMessage(Configuration);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SubmitCustomSpecialistResponse : pb::IMessage<SubmitCustomSpecialistResponse> {
+    private static readonly pb::MessageParser<SubmitCustomSpecialistResponse> _parser = new pb::MessageParser<SubmitCustomSpecialistResponse>(() => new SubmitCustomSpecialistResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SubmitCustomSpecialistResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[61]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistResponse(SubmitCustomSpecialistResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      specialistConfigurationId_ = other.specialistConfigurationId_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SubmitCustomSpecialistResponse Clone() {
+      return new SubmitCustomSpecialistResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "SpecialistConfigurationId" field.</summary>
+    public const int SpecialistConfigurationIdFieldNumber = 2;
+    private string specialistConfigurationId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SpecialistConfigurationId {
+      get { return specialistConfigurationId_; }
+      set {
+        specialistConfigurationId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SubmitCustomSpecialistResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SubmitCustomSpecialistResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if (SpecialistConfigurationId != other.SpecialistConfigurationId) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      if (SpecialistConfigurationId.Length != 0) hash ^= SpecialistConfigurationId.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      if (SpecialistConfigurationId.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(SpecialistConfigurationId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      if (SpecialistConfigurationId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SpecialistConfigurationId);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SubmitCustomSpecialistResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      if (other.SpecialistConfigurationId.Length != 0) {
+        SpecialistConfigurationId = other.SpecialistConfigurationId;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            SpecialistConfigurationId = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetCustomSpecialistsRequest : pb::IMessage<GetCustomSpecialistsRequest> {
+    private static readonly pb::MessageParser<GetCustomSpecialistsRequest> _parser = new pb::MessageParser<GetCustomSpecialistsRequest>(() => new GetCustomSpecialistsRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetCustomSpecialistsRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[62]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsRequest(GetCustomSpecialistsRequest other) : this() {
+      pageNumber_ = other.pageNumber_;
+      searchTerm_ = other.searchTerm_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsRequest Clone() {
+      return new GetCustomSpecialistsRequest(this);
+    }
+
+    /// <summary>Field number for the "pageNumber" field.</summary>
+    public const int PageNumberFieldNumber = 1;
+    private long pageNumber_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long PageNumber {
+      get { return pageNumber_; }
+      set {
+        pageNumber_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "searchTerm" field.</summary>
+    public const int SearchTermFieldNumber = 2;
+    private string searchTerm_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SearchTerm {
+      get { return searchTerm_; }
+      set {
+        searchTerm_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetCustomSpecialistsRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetCustomSpecialistsRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (PageNumber != other.PageNumber) return false;
+      if (SearchTerm != other.SearchTerm) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (PageNumber != 0L) hash ^= PageNumber.GetHashCode();
+      if (SearchTerm.Length != 0) hash ^= SearchTerm.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (PageNumber != 0L) {
+        output.WriteRawTag(8);
+        output.WriteInt64(PageNumber);
+      }
+      if (SearchTerm.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(SearchTerm);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (PageNumber != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(PageNumber);
+      }
+      if (SearchTerm.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SearchTerm);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetCustomSpecialistsRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.PageNumber != 0L) {
+        PageNumber = other.PageNumber;
+      }
+      if (other.SearchTerm.Length != 0) {
+        SearchTerm = other.SearchTerm;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            PageNumber = input.ReadInt64();
+            break;
+          }
+          case 18: {
+            SearchTerm = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetCustomSpecialistsResponse : pb::IMessage<GetCustomSpecialistsResponse> {
+    private static readonly pb::MessageParser<GetCustomSpecialistsResponse> _parser = new pb::MessageParser<GetCustomSpecialistsResponse>(() => new GetCustomSpecialistsResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetCustomSpecialistsResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[63]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsResponse(GetCustomSpecialistsResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      customSpecialists_ = other.customSpecialists_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetCustomSpecialistsResponse Clone() {
+      return new GetCustomSpecialistsResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "CustomSpecialists" field.</summary>
+    public const int CustomSpecialistsFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistConfiguration> _repeated_customSpecialists_codec
+        = pb::FieldCodec.ForMessage(18, global::SubterfugeRemakeService.SpecialistConfiguration.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> customSpecialists_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> CustomSpecialists {
+      get { return customSpecialists_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetCustomSpecialistsResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetCustomSpecialistsResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if(!customSpecialists_.Equals(other.customSpecialists_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      hash ^= customSpecialists_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      customSpecialists_.WriteTo(output, _repeated_customSpecialists_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      size += customSpecialists_.CalculateSize(_repeated_customSpecialists_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetCustomSpecialistsResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      customSpecialists_.Add(other.customSpecialists_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            customSpecialists_.AddEntriesFrom(input, _repeated_customSpecialists_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class CreateSpecialistPackageRequest : pb::IMessage<CreateSpecialistPackageRequest> {
+    private static readonly pb::MessageParser<CreateSpecialistPackageRequest> _parser = new pb::MessageParser<CreateSpecialistPackageRequest>(() => new CreateSpecialistPackageRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<CreateSpecialistPackageRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[64]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageRequest(CreateSpecialistPackageRequest other) : this() {
+      specialistPackage_ = other.specialistPackage_ != null ? other.specialistPackage_.Clone() : null;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageRequest Clone() {
+      return new CreateSpecialistPackageRequest(this);
+    }
+
+    /// <summary>Field number for the "SpecialistPackage" field.</summary>
+    public const int SpecialistPackageFieldNumber = 1;
+    private global::SubterfugeRemakeService.SpecialistPackage specialistPackage_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.SpecialistPackage SpecialistPackage {
+      get { return specialistPackage_; }
+      set {
+        specialistPackage_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as CreateSpecialistPackageRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(CreateSpecialistPackageRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(SpecialistPackage, other.SpecialistPackage)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (specialistPackage_ != null) hash ^= SpecialistPackage.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (specialistPackage_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(SpecialistPackage);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (specialistPackage_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(SpecialistPackage);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(CreateSpecialistPackageRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.specialistPackage_ != null) {
+        if (specialistPackage_ == null) {
+          SpecialistPackage = new global::SubterfugeRemakeService.SpecialistPackage();
+        }
+        SpecialistPackage.MergeFrom(other.SpecialistPackage);
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (specialistPackage_ == null) {
+              SpecialistPackage = new global::SubterfugeRemakeService.SpecialistPackage();
+            }
+            input.ReadMessage(SpecialistPackage);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class CreateSpecialistPackageResponse : pb::IMessage<CreateSpecialistPackageResponse> {
+    private static readonly pb::MessageParser<CreateSpecialistPackageResponse> _parser = new pb::MessageParser<CreateSpecialistPackageResponse>(() => new CreateSpecialistPackageResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<CreateSpecialistPackageResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[65]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageResponse(CreateSpecialistPackageResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      specialistPackageId_ = other.specialistPackageId_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public CreateSpecialistPackageResponse Clone() {
+      return new CreateSpecialistPackageResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "SpecialistPackageId" field.</summary>
+    public const int SpecialistPackageIdFieldNumber = 2;
+    private string specialistPackageId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SpecialistPackageId {
+      get { return specialistPackageId_; }
+      set {
+        specialistPackageId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as CreateSpecialistPackageResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(CreateSpecialistPackageResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if (SpecialistPackageId != other.SpecialistPackageId) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      if (SpecialistPackageId.Length != 0) hash ^= SpecialistPackageId.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      if (SpecialistPackageId.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(SpecialistPackageId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      if (SpecialistPackageId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SpecialistPackageId);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(CreateSpecialistPackageResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      if (other.SpecialistPackageId.Length != 0) {
+        SpecialistPackageId = other.SpecialistPackageId;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            SpecialistPackageId = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetSpecialistPackagesRequest : pb::IMessage<GetSpecialistPackagesRequest> {
+    private static readonly pb::MessageParser<GetSpecialistPackagesRequest> _parser = new pb::MessageParser<GetSpecialistPackagesRequest>(() => new GetSpecialistPackagesRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetSpecialistPackagesRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[66]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesRequest(GetSpecialistPackagesRequest other) : this() {
+      pageNumber_ = other.pageNumber_;
+      searchTerm_ = other.searchTerm_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesRequest Clone() {
+      return new GetSpecialistPackagesRequest(this);
+    }
+
+    /// <summary>Field number for the "pageNumber" field.</summary>
+    public const int PageNumberFieldNumber = 1;
+    private long pageNumber_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long PageNumber {
+      get { return pageNumber_; }
+      set {
+        pageNumber_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "searchTerm" field.</summary>
+    public const int SearchTermFieldNumber = 2;
+    private string searchTerm_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SearchTerm {
+      get { return searchTerm_; }
+      set {
+        searchTerm_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetSpecialistPackagesRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetSpecialistPackagesRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (PageNumber != other.PageNumber) return false;
+      if (SearchTerm != other.SearchTerm) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (PageNumber != 0L) hash ^= PageNumber.GetHashCode();
+      if (SearchTerm.Length != 0) hash ^= SearchTerm.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (PageNumber != 0L) {
+        output.WriteRawTag(8);
+        output.WriteInt64(PageNumber);
+      }
+      if (SearchTerm.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(SearchTerm);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (PageNumber != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(PageNumber);
+      }
+      if (SearchTerm.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SearchTerm);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetSpecialistPackagesRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.PageNumber != 0L) {
+        PageNumber = other.PageNumber;
+      }
+      if (other.SearchTerm.Length != 0) {
+        SearchTerm = other.SearchTerm;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            PageNumber = input.ReadInt64();
+            break;
+          }
+          case 18: {
+            SearchTerm = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetSpecialistPackagesResponse : pb::IMessage<GetSpecialistPackagesResponse> {
+    private static readonly pb::MessageParser<GetSpecialistPackagesResponse> _parser = new pb::MessageParser<GetSpecialistPackagesResponse>(() => new GetSpecialistPackagesResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetSpecialistPackagesResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[67]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesResponse(GetSpecialistPackagesResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      specialistPackages_ = other.specialistPackages_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetSpecialistPackagesResponse Clone() {
+      return new GetSpecialistPackagesResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "SpecialistPackages" field.</summary>
+    public const int SpecialistPackagesFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistPackage> _repeated_specialistPackages_codec
+        = pb::FieldCodec.ForMessage(18, global::SubterfugeRemakeService.SpecialistPackage.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage> specialistPackages_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage> SpecialistPackages {
+      get { return specialistPackages_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetSpecialistPackagesResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetSpecialistPackagesResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if(!specialistPackages_.Equals(other.specialistPackages_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      hash ^= specialistPackages_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      specialistPackages_.WriteTo(output, _repeated_specialistPackages_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      size += specialistPackages_.CalculateSize(_repeated_specialistPackages_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetSpecialistPackagesResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      specialistPackages_.Add(other.specialistPackages_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            specialistPackages_.AddEntriesFrom(input, _repeated_specialistPackages_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetPlayerCustomSpecialistsRequest : pb::IMessage<GetPlayerCustomSpecialistsRequest> {
+    private static readonly pb::MessageParser<GetPlayerCustomSpecialistsRequest> _parser = new pb::MessageParser<GetPlayerCustomSpecialistsRequest>(() => new GetPlayerCustomSpecialistsRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetPlayerCustomSpecialistsRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[68]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsRequest(GetPlayerCustomSpecialistsRequest other) : this() {
+      playerId_ = other.playerId_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsRequest Clone() {
+      return new GetPlayerCustomSpecialistsRequest(this);
+    }
+
+    /// <summary>Field number for the "playerId" field.</summary>
+    public const int PlayerIdFieldNumber = 1;
+    private string playerId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string PlayerId {
+      get { return playerId_; }
+      set {
+        playerId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetPlayerCustomSpecialistsRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetPlayerCustomSpecialistsRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (PlayerId != other.PlayerId) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (PlayerId.Length != 0) hash ^= PlayerId.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (PlayerId.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(PlayerId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (PlayerId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(PlayerId);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetPlayerCustomSpecialistsRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.PlayerId.Length != 0) {
+        PlayerId = other.PlayerId;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            PlayerId = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetPlayerCustomSpecialistsResponse : pb::IMessage<GetPlayerCustomSpecialistsResponse> {
+    private static readonly pb::MessageParser<GetPlayerCustomSpecialistsResponse> _parser = new pb::MessageParser<GetPlayerCustomSpecialistsResponse>(() => new GetPlayerCustomSpecialistsResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetPlayerCustomSpecialistsResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[69]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsResponse(GetPlayerCustomSpecialistsResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      playerSpecialists_ = other.playerSpecialists_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerCustomSpecialistsResponse Clone() {
+      return new GetPlayerCustomSpecialistsResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "PlayerSpecialists" field.</summary>
+    public const int PlayerSpecialistsFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistConfiguration> _repeated_playerSpecialists_codec
+        = pb::FieldCodec.ForMessage(18, global::SubterfugeRemakeService.SpecialistConfiguration.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> playerSpecialists_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> PlayerSpecialists {
+      get { return playerSpecialists_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetPlayerCustomSpecialistsResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetPlayerCustomSpecialistsResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if(!playerSpecialists_.Equals(other.playerSpecialists_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      hash ^= playerSpecialists_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      playerSpecialists_.WriteTo(output, _repeated_playerSpecialists_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      size += playerSpecialists_.CalculateSize(_repeated_playerSpecialists_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetPlayerCustomSpecialistsResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      playerSpecialists_.Add(other.playerSpecialists_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            playerSpecialists_.AddEntriesFrom(input, _repeated_playerSpecialists_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetPlayerSpecialistPackagesRequest : pb::IMessage<GetPlayerSpecialistPackagesRequest> {
+    private static readonly pb::MessageParser<GetPlayerSpecialistPackagesRequest> _parser = new pb::MessageParser<GetPlayerSpecialistPackagesRequest>(() => new GetPlayerSpecialistPackagesRequest());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetPlayerSpecialistPackagesRequest> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[70]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesRequest() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesRequest(GetPlayerSpecialistPackagesRequest other) : this() {
+      playerId_ = other.playerId_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesRequest Clone() {
+      return new GetPlayerSpecialistPackagesRequest(this);
+    }
+
+    /// <summary>Field number for the "playerId" field.</summary>
+    public const int PlayerIdFieldNumber = 1;
+    private string playerId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string PlayerId {
+      get { return playerId_; }
+      set {
+        playerId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetPlayerSpecialistPackagesRequest);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetPlayerSpecialistPackagesRequest other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (PlayerId != other.PlayerId) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (PlayerId.Length != 0) hash ^= PlayerId.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (PlayerId.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(PlayerId);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (PlayerId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(PlayerId);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetPlayerSpecialistPackagesRequest other) {
+      if (other == null) {
+        return;
+      }
+      if (other.PlayerId.Length != 0) {
+        PlayerId = other.PlayerId;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            PlayerId = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class GetPlayerSpecialistPackagesResponse : pb::IMessage<GetPlayerSpecialistPackagesResponse> {
+    private static readonly pb::MessageParser<GetPlayerSpecialistPackagesResponse> _parser = new pb::MessageParser<GetPlayerSpecialistPackagesResponse>(() => new GetPlayerSpecialistPackagesResponse());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<GetPlayerSpecialistPackagesResponse> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[71]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesResponse() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesResponse(GetPlayerSpecialistPackagesResponse other) : this() {
+      status_ = other.status_ != null ? other.status_.Clone() : null;
+      playerPackages_ = other.playerPackages_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public GetPlayerSpecialistPackagesResponse Clone() {
+      return new GetPlayerSpecialistPackagesResponse(this);
+    }
+
+    /// <summary>Field number for the "status" field.</summary>
+    public const int StatusFieldNumber = 1;
+    private global::SubterfugeRemakeService.ResponseStatus status_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.ResponseStatus Status {
+      get { return status_; }
+      set {
+        status_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "PlayerPackages" field.</summary>
+    public const int PlayerPackagesFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistPackage> _repeated_playerPackages_codec
+        = pb::FieldCodec.ForMessage(18, global::SubterfugeRemakeService.SpecialistPackage.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage> playerPackages_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistPackage> PlayerPackages {
+      get { return playerPackages_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as GetPlayerSpecialistPackagesResponse);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(GetPlayerSpecialistPackagesResponse other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Status, other.Status)) return false;
+      if(!playerPackages_.Equals(other.playerPackages_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (status_ != null) hash ^= Status.GetHashCode();
+      hash ^= playerPackages_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (status_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Status);
+      }
+      playerPackages_.WriteTo(output, _repeated_playerPackages_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (status_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Status);
+      }
+      size += playerPackages_.CalculateSize(_repeated_playerPackages_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(GetPlayerSpecialistPackagesResponse other) {
+      if (other == null) {
+        return;
+      }
+      if (other.status_ != null) {
+        if (status_ == null) {
+          Status = new global::SubterfugeRemakeService.ResponseStatus();
+        }
+        Status.MergeFrom(other.Status);
+      }
+      playerPackages_.Add(other.playerPackages_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (status_ == null) {
+              Status = new global::SubterfugeRemakeService.ResponseStatus();
+            }
+            input.ReadMessage(Status);
+            break;
+          }
+          case 18: {
+            playerPackages_.AddEntriesFrom(input, _repeated_playerPackages_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
   public sealed partial class UserModel : pb::IMessage<UserModel> {
     private static readonly pb::MessageParser<UserModel> _parser = new pb::MessageParser<UserModel>(() => new UserModel());
     private pb::UnknownFieldSet _unknownFields;
@@ -9626,7 +11580,7 @@ namespace SubterfugeRemakeService {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[60]; }
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[72]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -9944,7 +11898,7 @@ namespace SubterfugeRemakeService {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[61]; }
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[73]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10407,7 +12361,7 @@ namespace SubterfugeRemakeService {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[62]; }
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[74]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10676,7 +12630,7 @@ namespace SubterfugeRemakeService {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[63]; }
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[75]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10825,7 +12779,7 @@ namespace SubterfugeRemakeService {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[64]; }
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[76]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -10994,6 +12948,1057 @@ namespace SubterfugeRemakeService {
           }
           case 26: {
             Message = input.ReadString();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SpecialistConfiguration : pb::IMessage<SpecialistConfiguration> {
+    private static readonly pb::MessageParser<SpecialistConfiguration> _parser = new pb::MessageParser<SpecialistConfiguration>(() => new SpecialistConfiguration());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SpecialistConfiguration> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[77]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistConfiguration() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistConfiguration(SpecialistConfiguration other) : this() {
+      specialistId_ = other.specialistId_;
+      priority_ = other.priority_;
+      specialistName_ = other.specialistName_;
+      creator_ = other.creator_ != null ? other.creator_.Clone() : null;
+      specialistEffects_ = other.specialistEffects_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistConfiguration Clone() {
+      return new SpecialistConfiguration(this);
+    }
+
+    /// <summary>Field number for the "SpecialistId" field.</summary>
+    public const int SpecialistIdFieldNumber = 1;
+    private string specialistId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SpecialistId {
+      get { return specialistId_; }
+      set {
+        specialistId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "Priority" field.</summary>
+    public const int PriorityFieldNumber = 2;
+    private long priority_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long Priority {
+      get { return priority_; }
+      set {
+        priority_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "SpecialistName" field.</summary>
+    public const int SpecialistNameFieldNumber = 3;
+    private string specialistName_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SpecialistName {
+      get { return specialistName_; }
+      set {
+        specialistName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "Creator" field.</summary>
+    public const int CreatorFieldNumber = 4;
+    private global::SubterfugeRemakeService.User creator_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.User Creator {
+      get { return creator_; }
+      set {
+        creator_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "specialistEffects" field.</summary>
+    public const int SpecialistEffectsFieldNumber = 5;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistEffectConfiguration> _repeated_specialistEffects_codec
+        = pb::FieldCodec.ForMessage(42, global::SubterfugeRemakeService.SpecialistEffectConfiguration.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistEffectConfiguration> specialistEffects_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistEffectConfiguration>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistEffectConfiguration> SpecialistEffects {
+      get { return specialistEffects_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SpecialistConfiguration);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SpecialistConfiguration other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (SpecialistId != other.SpecialistId) return false;
+      if (Priority != other.Priority) return false;
+      if (SpecialistName != other.SpecialistName) return false;
+      if (!object.Equals(Creator, other.Creator)) return false;
+      if(!specialistEffects_.Equals(other.specialistEffects_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (SpecialistId.Length != 0) hash ^= SpecialistId.GetHashCode();
+      if (Priority != 0L) hash ^= Priority.GetHashCode();
+      if (SpecialistName.Length != 0) hash ^= SpecialistName.GetHashCode();
+      if (creator_ != null) hash ^= Creator.GetHashCode();
+      hash ^= specialistEffects_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (SpecialistId.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(SpecialistId);
+      }
+      if (Priority != 0L) {
+        output.WriteRawTag(16);
+        output.WriteInt64(Priority);
+      }
+      if (SpecialistName.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(SpecialistName);
+      }
+      if (creator_ != null) {
+        output.WriteRawTag(34);
+        output.WriteMessage(Creator);
+      }
+      specialistEffects_.WriteTo(output, _repeated_specialistEffects_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (SpecialistId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SpecialistId);
+      }
+      if (Priority != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(Priority);
+      }
+      if (SpecialistName.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SpecialistName);
+      }
+      if (creator_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Creator);
+      }
+      size += specialistEffects_.CalculateSize(_repeated_specialistEffects_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SpecialistConfiguration other) {
+      if (other == null) {
+        return;
+      }
+      if (other.SpecialistId.Length != 0) {
+        SpecialistId = other.SpecialistId;
+      }
+      if (other.Priority != 0L) {
+        Priority = other.Priority;
+      }
+      if (other.SpecialistName.Length != 0) {
+        SpecialistName = other.SpecialistName;
+      }
+      if (other.creator_ != null) {
+        if (creator_ == null) {
+          Creator = new global::SubterfugeRemakeService.User();
+        }
+        Creator.MergeFrom(other.Creator);
+      }
+      specialistEffects_.Add(other.specialistEffects_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            SpecialistId = input.ReadString();
+            break;
+          }
+          case 16: {
+            Priority = input.ReadInt64();
+            break;
+          }
+          case 26: {
+            SpecialistName = input.ReadString();
+            break;
+          }
+          case 34: {
+            if (creator_ == null) {
+              Creator = new global::SubterfugeRemakeService.User();
+            }
+            input.ReadMessage(Creator);
+            break;
+          }
+          case 42: {
+            specialistEffects_.AddEntriesFrom(input, _repeated_specialistEffects_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SpecialistEffectConfiguration : pb::IMessage<SpecialistEffectConfiguration> {
+    private static readonly pb::MessageParser<SpecialistEffectConfiguration> _parser = new pb::MessageParser<SpecialistEffectConfiguration>(() => new SpecialistEffectConfiguration());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SpecialistEffectConfiguration> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[78]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectConfiguration() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectConfiguration(SpecialistEffectConfiguration other) : this() {
+      value_ = other.value_;
+      effectTrigger_ = other.effectTrigger_;
+      effectTarget_ = other.effectTarget_;
+      effectTriggerRange_ = other.effectTriggerRange_;
+      effectModifier_ = other.effectModifier_;
+      effectScale_ = other.effectScale_ != null ? other.effectScale_.Clone() : null;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectConfiguration Clone() {
+      return new SpecialistEffectConfiguration(this);
+    }
+
+    /// <summary>Field number for the "Value" field.</summary>
+    public const int ValueFieldNumber = 1;
+    private long value_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public long Value {
+      get { return value_; }
+      set {
+        value_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectTrigger" field.</summary>
+    public const int EffectTriggerFieldNumber = 2;
+    private global::SubterfugeRemakeService.EffectTrigger effectTrigger_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectTrigger EffectTrigger {
+      get { return effectTrigger_; }
+      set {
+        effectTrigger_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectTarget" field.</summary>
+    public const int EffectTargetFieldNumber = 3;
+    private global::SubterfugeRemakeService.EffectTarget effectTarget_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectTarget EffectTarget {
+      get { return effectTarget_; }
+      set {
+        effectTarget_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectTriggerRange" field.</summary>
+    public const int EffectTriggerRangeFieldNumber = 4;
+    private global::SubterfugeRemakeService.EffectTriggerRange effectTriggerRange_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectTriggerRange EffectTriggerRange {
+      get { return effectTriggerRange_; }
+      set {
+        effectTriggerRange_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectModifier" field.</summary>
+    public const int EffectModifierFieldNumber = 5;
+    private global::SubterfugeRemakeService.EffectModifier effectModifier_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectModifier EffectModifier {
+      get { return effectModifier_; }
+      set {
+        effectModifier_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectScale" field.</summary>
+    public const int EffectScaleFieldNumber = 6;
+    private global::SubterfugeRemakeService.SpecialistEffectScale effectScale_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.SpecialistEffectScale EffectScale {
+      get { return effectScale_; }
+      set {
+        effectScale_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SpecialistEffectConfiguration);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SpecialistEffectConfiguration other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Value != other.Value) return false;
+      if (EffectTrigger != other.EffectTrigger) return false;
+      if (EffectTarget != other.EffectTarget) return false;
+      if (EffectTriggerRange != other.EffectTriggerRange) return false;
+      if (EffectModifier != other.EffectModifier) return false;
+      if (!object.Equals(EffectScale, other.EffectScale)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Value != 0L) hash ^= Value.GetHashCode();
+      if (EffectTrigger != 0) hash ^= EffectTrigger.GetHashCode();
+      if (EffectTarget != 0) hash ^= EffectTarget.GetHashCode();
+      if (EffectTriggerRange != 0) hash ^= EffectTriggerRange.GetHashCode();
+      if (EffectModifier != 0) hash ^= EffectModifier.GetHashCode();
+      if (effectScale_ != null) hash ^= EffectScale.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (Value != 0L) {
+        output.WriteRawTag(8);
+        output.WriteInt64(Value);
+      }
+      if (EffectTrigger != 0) {
+        output.WriteRawTag(16);
+        output.WriteEnum((int) EffectTrigger);
+      }
+      if (EffectTarget != 0) {
+        output.WriteRawTag(24);
+        output.WriteEnum((int) EffectTarget);
+      }
+      if (EffectTriggerRange != 0) {
+        output.WriteRawTag(32);
+        output.WriteEnum((int) EffectTriggerRange);
+      }
+      if (EffectModifier != 0) {
+        output.WriteRawTag(40);
+        output.WriteEnum((int) EffectModifier);
+      }
+      if (effectScale_ != null) {
+        output.WriteRawTag(50);
+        output.WriteMessage(EffectScale);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (Value != 0L) {
+        size += 1 + pb::CodedOutputStream.ComputeInt64Size(Value);
+      }
+      if (EffectTrigger != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectTrigger);
+      }
+      if (EffectTarget != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectTarget);
+      }
+      if (EffectTriggerRange != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectTriggerRange);
+      }
+      if (EffectModifier != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectModifier);
+      }
+      if (effectScale_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(EffectScale);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SpecialistEffectConfiguration other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Value != 0L) {
+        Value = other.Value;
+      }
+      if (other.EffectTrigger != 0) {
+        EffectTrigger = other.EffectTrigger;
+      }
+      if (other.EffectTarget != 0) {
+        EffectTarget = other.EffectTarget;
+      }
+      if (other.EffectTriggerRange != 0) {
+        EffectTriggerRange = other.EffectTriggerRange;
+      }
+      if (other.EffectModifier != 0) {
+        EffectModifier = other.EffectModifier;
+      }
+      if (other.effectScale_ != null) {
+        if (effectScale_ == null) {
+          EffectScale = new global::SubterfugeRemakeService.SpecialistEffectScale();
+        }
+        EffectScale.MergeFrom(other.EffectScale);
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Value = input.ReadInt64();
+            break;
+          }
+          case 16: {
+            EffectTrigger = (global::SubterfugeRemakeService.EffectTrigger) input.ReadEnum();
+            break;
+          }
+          case 24: {
+            EffectTarget = (global::SubterfugeRemakeService.EffectTarget) input.ReadEnum();
+            break;
+          }
+          case 32: {
+            EffectTriggerRange = (global::SubterfugeRemakeService.EffectTriggerRange) input.ReadEnum();
+            break;
+          }
+          case 40: {
+            EffectModifier = (global::SubterfugeRemakeService.EffectModifier) input.ReadEnum();
+            break;
+          }
+          case 50: {
+            if (effectScale_ == null) {
+              EffectScale = new global::SubterfugeRemakeService.SpecialistEffectScale();
+            }
+            input.ReadMessage(EffectScale);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SpecialistEffectScale : pb::IMessage<SpecialistEffectScale> {
+    private static readonly pb::MessageParser<SpecialistEffectScale> _parser = new pb::MessageParser<SpecialistEffectScale>(() => new SpecialistEffectScale());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SpecialistEffectScale> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[79]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectScale() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectScale(SpecialistEffectScale other) : this() {
+      effectScale_ = other.effectScale_;
+      effectScaleTarget_ = other.effectScaleTarget_;
+      scaleTriggerRange_ = other.scaleTriggerRange_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistEffectScale Clone() {
+      return new SpecialistEffectScale(this);
+    }
+
+    /// <summary>Field number for the "EffectScale" field.</summary>
+    public const int EffectScaleFieldNumber = 6;
+    private global::SubterfugeRemakeService.EffectScale effectScale_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectScale EffectScale {
+      get { return effectScale_; }
+      set {
+        effectScale_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "EffectScaleTarget" field.</summary>
+    public const int EffectScaleTargetFieldNumber = 7;
+    private global::SubterfugeRemakeService.EffectTarget effectScaleTarget_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectTarget EffectScaleTarget {
+      get { return effectScaleTarget_; }
+      set {
+        effectScaleTarget_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "ScaleTriggerRange" field.</summary>
+    public const int ScaleTriggerRangeFieldNumber = 8;
+    private global::SubterfugeRemakeService.EffectTriggerRange scaleTriggerRange_ = 0;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.EffectTriggerRange ScaleTriggerRange {
+      get { return scaleTriggerRange_; }
+      set {
+        scaleTriggerRange_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SpecialistEffectScale);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SpecialistEffectScale other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (EffectScale != other.EffectScale) return false;
+      if (EffectScaleTarget != other.EffectScaleTarget) return false;
+      if (ScaleTriggerRange != other.ScaleTriggerRange) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (EffectScale != 0) hash ^= EffectScale.GetHashCode();
+      if (EffectScaleTarget != 0) hash ^= EffectScaleTarget.GetHashCode();
+      if (ScaleTriggerRange != 0) hash ^= ScaleTriggerRange.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (EffectScale != 0) {
+        output.WriteRawTag(48);
+        output.WriteEnum((int) EffectScale);
+      }
+      if (EffectScaleTarget != 0) {
+        output.WriteRawTag(56);
+        output.WriteEnum((int) EffectScaleTarget);
+      }
+      if (ScaleTriggerRange != 0) {
+        output.WriteRawTag(64);
+        output.WriteEnum((int) ScaleTriggerRange);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (EffectScale != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectScale);
+      }
+      if (EffectScaleTarget != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) EffectScaleTarget);
+      }
+      if (ScaleTriggerRange != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) ScaleTriggerRange);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SpecialistEffectScale other) {
+      if (other == null) {
+        return;
+      }
+      if (other.EffectScale != 0) {
+        EffectScale = other.EffectScale;
+      }
+      if (other.EffectScaleTarget != 0) {
+        EffectScaleTarget = other.EffectScaleTarget;
+      }
+      if (other.ScaleTriggerRange != 0) {
+        ScaleTriggerRange = other.ScaleTriggerRange;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 48: {
+            EffectScale = (global::SubterfugeRemakeService.EffectScale) input.ReadEnum();
+            break;
+          }
+          case 56: {
+            EffectScaleTarget = (global::SubterfugeRemakeService.EffectTarget) input.ReadEnum();
+            break;
+          }
+          case 64: {
+            ScaleTriggerRange = (global::SubterfugeRemakeService.EffectTriggerRange) input.ReadEnum();
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SpecialistPackage : pb::IMessage<SpecialistPackage> {
+    private static readonly pb::MessageParser<SpecialistPackage> _parser = new pb::MessageParser<SpecialistPackage>(() => new SpecialistPackage());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SpecialistPackage> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[80]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackage() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackage(SpecialistPackage other) : this() {
+      creator_ = other.creator_ != null ? other.creator_.Clone() : null;
+      packageName_ = other.packageName_;
+      specialistPackageId_ = other.specialistPackageId_;
+      specialistIds_ = other.specialistIds_.Clone();
+      specialistPackageIds_ = other.specialistPackageIds_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackage Clone() {
+      return new SpecialistPackage(this);
+    }
+
+    /// <summary>Field number for the "Creator" field.</summary>
+    public const int CreatorFieldNumber = 1;
+    private global::SubterfugeRemakeService.User creator_;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public global::SubterfugeRemakeService.User Creator {
+      get { return creator_; }
+      set {
+        creator_ = value;
+      }
+    }
+
+    /// <summary>Field number for the "PackageName" field.</summary>
+    public const int PackageNameFieldNumber = 2;
+    private string packageName_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string PackageName {
+      get { return packageName_; }
+      set {
+        packageName_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "SpecialistPackageId" field.</summary>
+    public const int SpecialistPackageIdFieldNumber = 3;
+    private string specialistPackageId_ = "";
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string SpecialistPackageId {
+      get { return specialistPackageId_; }
+      set {
+        specialistPackageId_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
+    }
+
+    /// <summary>Field number for the "specialistIds" field.</summary>
+    public const int SpecialistIdsFieldNumber = 4;
+    private static readonly pb::FieldCodec<string> _repeated_specialistIds_codec
+        = pb::FieldCodec.ForString(34);
+    private readonly pbc::RepeatedField<string> specialistIds_ = new pbc::RepeatedField<string>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<string> SpecialistIds {
+      get { return specialistIds_; }
+    }
+
+    /// <summary>Field number for the "SpecialistPackageIds" field.</summary>
+    public const int SpecialistPackageIdsFieldNumber = 5;
+    private static readonly pb::FieldCodec<string> _repeated_specialistPackageIds_codec
+        = pb::FieldCodec.ForString(42);
+    private readonly pbc::RepeatedField<string> specialistPackageIds_ = new pbc::RepeatedField<string>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<string> SpecialistPackageIds {
+      get { return specialistPackageIds_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SpecialistPackage);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SpecialistPackage other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (!object.Equals(Creator, other.Creator)) return false;
+      if (PackageName != other.PackageName) return false;
+      if (SpecialistPackageId != other.SpecialistPackageId) return false;
+      if(!specialistIds_.Equals(other.specialistIds_)) return false;
+      if(!specialistPackageIds_.Equals(other.specialistPackageIds_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (creator_ != null) hash ^= Creator.GetHashCode();
+      if (PackageName.Length != 0) hash ^= PackageName.GetHashCode();
+      if (SpecialistPackageId.Length != 0) hash ^= SpecialistPackageId.GetHashCode();
+      hash ^= specialistIds_.GetHashCode();
+      hash ^= specialistPackageIds_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      if (creator_ != null) {
+        output.WriteRawTag(10);
+        output.WriteMessage(Creator);
+      }
+      if (PackageName.Length != 0) {
+        output.WriteRawTag(18);
+        output.WriteString(PackageName);
+      }
+      if (SpecialistPackageId.Length != 0) {
+        output.WriteRawTag(26);
+        output.WriteString(SpecialistPackageId);
+      }
+      specialistIds_.WriteTo(output, _repeated_specialistIds_codec);
+      specialistPackageIds_.WriteTo(output, _repeated_specialistPackageIds_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      if (creator_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(Creator);
+      }
+      if (PackageName.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(PackageName);
+      }
+      if (SpecialistPackageId.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(SpecialistPackageId);
+      }
+      size += specialistIds_.CalculateSize(_repeated_specialistIds_codec);
+      size += specialistPackageIds_.CalculateSize(_repeated_specialistPackageIds_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SpecialistPackage other) {
+      if (other == null) {
+        return;
+      }
+      if (other.creator_ != null) {
+        if (creator_ == null) {
+          Creator = new global::SubterfugeRemakeService.User();
+        }
+        Creator.MergeFrom(other.Creator);
+      }
+      if (other.PackageName.Length != 0) {
+        PackageName = other.PackageName;
+      }
+      if (other.SpecialistPackageId.Length != 0) {
+        SpecialistPackageId = other.SpecialistPackageId;
+      }
+      specialistIds_.Add(other.specialistIds_);
+      specialistPackageIds_.Add(other.specialistPackageIds_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 10: {
+            if (creator_ == null) {
+              Creator = new global::SubterfugeRemakeService.User();
+            }
+            input.ReadMessage(Creator);
+            break;
+          }
+          case 18: {
+            PackageName = input.ReadString();
+            break;
+          }
+          case 26: {
+            SpecialistPackageId = input.ReadString();
+            break;
+          }
+          case 34: {
+            specialistIds_.AddEntriesFrom(input, _repeated_specialistIds_codec);
+            break;
+          }
+          case 42: {
+            specialistPackageIds_.AddEntriesFrom(input, _repeated_specialistPackageIds_codec);
+            break;
+          }
+        }
+      }
+    }
+
+  }
+
+  public sealed partial class SpecialistPackageConfiguration : pb::IMessage<SpecialistPackageConfiguration> {
+    private static readonly pb::MessageParser<SpecialistPackageConfiguration> _parser = new pb::MessageParser<SpecialistPackageConfiguration>(() => new SpecialistPackageConfiguration());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pb::MessageParser<SpecialistPackageConfiguration> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::SubterfugeRemakeService.SubterfugeRemakeReflection.Descriptor.MessageTypes[81]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackageConfiguration() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackageConfiguration(SpecialistPackageConfiguration other) : this() {
+      specialistConfigurations_ = other.specialistConfigurations_.Clone();
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public SpecialistPackageConfiguration Clone() {
+      return new SpecialistPackageConfiguration(this);
+    }
+
+    /// <summary>Field number for the "SpecialistConfigurations" field.</summary>
+    public const int SpecialistConfigurationsFieldNumber = 2;
+    private static readonly pb::FieldCodec<global::SubterfugeRemakeService.SpecialistConfiguration> _repeated_specialistConfigurations_codec
+        = pb::FieldCodec.ForMessage(18, global::SubterfugeRemakeService.SpecialistConfiguration.Parser);
+    private readonly pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> specialistConfigurations_ = new pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration>();
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public pbc::RepeatedField<global::SubterfugeRemakeService.SpecialistConfiguration> SpecialistConfigurations {
+      get { return specialistConfigurations_; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override bool Equals(object other) {
+      return Equals(other as SpecialistPackageConfiguration);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public bool Equals(SpecialistPackageConfiguration other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if(!specialistConfigurations_.Equals(other.specialistConfigurations_)) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override int GetHashCode() {
+      int hash = 1;
+      hash ^= specialistConfigurations_.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void WriteTo(pb::CodedOutputStream output) {
+      specialistConfigurations_.WriteTo(output, _repeated_specialistConfigurations_codec);
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public int CalculateSize() {
+      int size = 0;
+      size += specialistConfigurations_.CalculateSize(_repeated_specialistConfigurations_codec);
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(SpecialistPackageConfiguration other) {
+      if (other == null) {
+        return;
+      }
+      specialistConfigurations_.Add(other.specialistConfigurations_);
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public void MergeFrom(pb::CodedInputStream input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 18: {
+            specialistConfigurations_.AddEntriesFrom(input, _repeated_specialistConfigurations_codec);
             break;
           }
         }
